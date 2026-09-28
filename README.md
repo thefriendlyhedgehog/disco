@@ -4,11 +4,6 @@ Discrub exports, searches and manages your Discord messages, reactions and media
 
 It runs as a **web app** (manual token entry) and as a **Chrome/Firefox extension** (signs in on Discord for you).
 
-**Official extension listings.** Fake copies exist on extension stores. These two URLs are the only genuine distributions, also listed in [SECURITY.md](SECURITY.md):
-
-- Chrome Web Store: <https://chromewebstore.google.com/detail/plhdclenpaecffbcefjmpkkbdpkmhhbj>
-- Firefox Add-ons: <https://addons.mozilla.org/firefox/addon/discrub/>
-
 ![Message Table](docs/screenshots/messages/message-table.png)
 
 ---
@@ -588,20 +583,5 @@ full permission set, and the steps to check a download against the
 published SHA-256 checksums (`store/SHA256SUMS.txt`, `scripts/verify-extension.mjs`).
 
 ---
-
-## License
-
-All rights reserved. © 2026 Prather Bytecraft.
-
-The source code in this repository is publicly visible for transparency and
-security review. Discrub is officially distributed via the Chrome Web Store and
-Firefox Add-ons; those are the supported ways to use it.
-
-"Discrub" and the Discrub logo are trademarks of Prather Bytecraft and may not be used
-in derivative or competing works.
-
----
-
-To sponsor a feature, commission a theme or request a custom Scrubling, use [Ko-fi Commissions](https://ko-fi.com/prathercc/commissions). For a Discord bot of your own, write to workbench@pratherbytecraft.com.
 
 Built by [Prather Bytecraft](https://github.com/pratherbytecraft) · [pratherbytecraft.com](https://pratherbytecraft.com)
